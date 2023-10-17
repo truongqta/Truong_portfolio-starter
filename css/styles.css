@@ -1,0 +1,22 @@
+/* this is the stylesheet */
+
+.myplaceholder {
+background: #eee;
+height:33vh;
+}
+p.my-caption {
+    bottom:0;
+    margin-top:0;
+    margin-bottom:0;
+}
+nav.bg-light {
+    background: #fff !important;
+}
+
+a.navbar-brand img {
+    width:42px;
+    height:auto;
+    }
+
+a.active {font-weight: bold}
+

@@ -1,0 +1,51 @@
+/* MEDIA QUERY OVERRIDES  */
+/* portrait phones */
+
+@media (max-width: 575px) { 
+
+  p.notice:after {
+    content: " portait";
+  }
+}
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { 
+
+  p.notice:after {
+    content: " landscape";
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+
+  p.notice:after {
+    content: " tablets";
+  }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+
+  p.notice:after {
+    content: " desktops";
+  }
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+
+  p.notice:after {
+    content: " large desktops";
+  }
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+
+  p.notice:after {
+    content: " extra-large desktops";
+  }
+}
+

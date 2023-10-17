@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Poster",
+    "description": "Record Store Day Poster, Illustrator.",
+    "imgSrc": "../images/Bauhaus_Constructivisim_WPA_Poster.jpg",
+    "link": "project1.html"
+  },
+  {
+    "title": "Custom Can",
+    "description": "Mockup Custom Can, Photoshop, Illustrator",
+    "imgSrc": "../images/Can-Mockup.jpg",
+    "link": ""
+  },
+  {
+    "title": "Spring Collage",
+    "description": "Spring Collage Poster, Illustrator, Photoshop.",
+    "imgSrc": "../images/Spring Collage.jpg",
+    "link": ""
+  },
+  {
+    "title": "David Fincher Film Review Article",
+    "description": "Article Layout, InDesign.",
+    "imgSrc": "../images/Fincher_Article2.jpg",
+    "link": ""
+  },
+  {
+    "title": "City Billboard",
+    "description": "Mockup Adidas Billboard, Photoshop.",
+    "imgSrc": "../images/City-Billboard_Mockup.jpg",
+    "link": ""
+  },
+  {
+    "title": "Preservation Hall Article",
+    "description": "Preservation Hall Article, InDesign.",
+    "imgSrc": "../images/Preservation_Hall_22.jpg",
+    "link": ""
+  }	
+]
