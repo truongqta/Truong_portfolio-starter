@@ -1,5 +1,36 @@
-/* this is the stylesheet */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&family=Playfair+Display:wght@600&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
+/* this is the stylesheet 
+font-family: 'Noto Sans', sans-serif;
+font-family: 'Playfair Display', serif;
 
+*/
+:root{
+    --mybrandcolor: #096E38;
+    --mybrandcolordark:#054020;
+}
+*{
+   font-family: 'Noto Sans', sans-serif; 
+}
+h1, h2, h3, {
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+    color:var(--mybrandcolor);
+    
+}
+h5 {
+      color:var(--mybrandcolordark) !important;
+  
+}
+.navbar-brand span {
+       font-family: 'Playfair Display', serif;
+    font-weight: 600;
+    color:var(--mybrandcolor);
+    
+}
+p.card-text{
+    color:var(--mybrandcolor);
+}
 .myplaceholder {
 background: #eee;
 height:33vh;
