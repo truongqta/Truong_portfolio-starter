@@ -34,6 +34,12 @@ p.card-text{
 .myplaceholder {
 background: #eee;
 height:33vh;
+    background: url(../images/HeavyMetalBG.jpg);
+    background-size: cover;
+    background-position: center;
+    color:white;
+
+    
 }
 p.my-caption {
     bottom:0;
@@ -51,3 +57,13 @@ a.navbar-brand img {
 
 a.active {font-weight: bold}
 
+.teaserbox {
+    background: rgba(0, 0, 0, .3);
+    text-align: center;
+    padding: 2rem;
+    
+}
+.teaserbox h1 {
+    color:white;
+    text-shadow: 3px 3px 3px #333;
+}
