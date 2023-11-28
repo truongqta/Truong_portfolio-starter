@@ -3,7 +3,7 @@ const { useState, useEffect } = React;
 const PortfolioItem = ({ item, index, setActiveIndex }) => {
   return (
     <div className="col-sm-6 col-lg-4 mb-4">
-      <div className="card" data-bs-toggle="modal" data-bs-target="#imageModal" onClick={() => setActiveIndex(index)}>
+      <div className="card hvr-shadow" data-bs-toggle="modal" data-bs-target="#imageModal" onClick={() => setActiveIndex(index)}>
         <img src={item.imgSrc} alt="" className="card-img-top" />
         <div className="card-body">
           <h5 className="card-title">{item.title}</h5>
