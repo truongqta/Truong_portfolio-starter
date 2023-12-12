@@ -3,7 +3,7 @@
     "title": "Poster",
     "description": "Record Store Day Poster, Illustrator.",
     "imgSrc": "../images/Bauhaus_Constructivisim_WPA_Poster.jpg",
-    "link": "project1.html"
+    "link": ""
   },
   {
     "title": "Custom Can",
@@ -34,5 +34,11 @@
     "description": "Preservation Hall Article, InDesign.",
     "imgSrc": "../images/Preservation_Hall_22.jpg",
     "link": ""
-  }	
+  },
+    {
+    "title": "Case Study",
+    "description": "Custom Beer Case",
+    "imgSrc": "../images/FP-DieCut.png",
+    "link": "project2.html"
+  }    
 ]
